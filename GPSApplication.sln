@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPSApplication", "GPSApplication\GPSApplication.csproj", "{8563BA59-0A01-44D7-9B38-77EE4DF2603E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		All|Default = All|Default
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8563BA59-0A01-44D7-9B38-77EE4DF2603E}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{8563BA59-0A01-44D7-9B38-77EE4DF2603E}.All|Any CPU.Build.0 = Release|Any CPU
+		{8563BA59-0A01-44D7-9B38-77EE4DF2603E}.All|Default.ActiveCfg = Debug|Any CPU
+		{8563BA59-0A01-44D7-9B38-77EE4DF2603E}.All|Default.Build.0 = Debug|Any CPU
+		{8563BA59-0A01-44D7-9B38-77EE4DF2603E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8563BA59-0A01-44D7-9B38-77EE4DF2603E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8563BA59-0A01-44D7-9B38-77EE4DF2603E}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{8563BA59-0A01-44D7-9B38-77EE4DF2603E}.Debug|Default.Build.0 = Debug|Any CPU
+		{8563BA59-0A01-44D7-9B38-77EE4DF2603E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8563BA59-0A01-44D7-9B38-77EE4DF2603E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8563BA59-0A01-44D7-9B38-77EE4DF2603E}.Release|Default.ActiveCfg = Release|Any CPU
+		{8563BA59-0A01-44D7-9B38-77EE4DF2603E}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B6EDACA-7C37-48C6-8B07-98EBB3B71D54}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		All|Default = All|Default
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		All|Default = All|Default
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal
